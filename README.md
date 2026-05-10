@@ -141,4 +141,4 @@ Derived analytical features:
 
 This project demonstrates how temporal sales analytics and business intelligence tools can improve operational efficiency, staffing optimization, and customer experience in the specialty coffee retail industry. It showcases practical applications of Excel and Power BI in solving real-world retail analytics problems.
 
-## Dashboard link : 
+![Dashboard].(https://github.com/rsakshi826/coffee.dashboard.github.io/blob/main/coffee.roaster.pbix)
